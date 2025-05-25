@@ -2,7 +2,7 @@
 
 ### 🏅 Certifications
 
-- [Google UX Design Certificate](https://example.com/certificate.pdf) – Coursera, 2025
+- [Google UX Design Certificate]([https://example.com/certificate.pdf](https://media.licdn.com/dms/image/v2/D562DAQHvjPBk7YN12w/profile-treasury-image-shrink_1280_1280/B56ZcF327qHUAQ-/0/1748150219463?e=1748775600&v=beta&t=GlCMp7QW_ZLGgEK3YgVgwbiu0465fkvXkIXf3pR60aw)) – Coursera, 2025
 
 
 <!--
