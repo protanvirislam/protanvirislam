@@ -1,5 +1,10 @@
 ## Hi there 👋 It's Tanvir
 
+### 🏅 Certifications
+
+- [Google UX Design Certificate](https://example.com/certificate.pdf) – Coursera, 2025
+
+
 <!--
 **protanvirislam/protanvirislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
