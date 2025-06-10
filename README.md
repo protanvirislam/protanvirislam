@@ -8,7 +8,7 @@ Date: May 25, 2025
 
 <p align="left">
   <a href="https://zerotomastery.io/" target="_blank">
-    <img src="[[https://media.licdn.com/dms/image/v2/D562DAQHvjPBk7YN12w/profile-treasury-image-shrink_1280_1280/B56ZcF327qHUAQ-/0/1748150219463?e=1748775600&v=beta&t=GlCMp7QW_ZLGgEK3YgVgwbiu0465fkvXkIXf3pR60aw](https://media.licdn.com/dms/image/v2/D562DAQGUV6_hZF2UBA/profile-treasury-image-shrink_800_800/B56ZdYnSiAHEAY-/0/1749538385042?e=1750147200&v=beta&t=8IpV9vOlTUPEE3la_AGdIMYduzUG3I87-FP3xsps344)](https://media.licdn.com/dms/image/v2/D562DAQHvjPBk7YN12w/profile-treasury-image-shrink_1280_1280/B56ZcF327qHUAQ-/0/1748150219463?e=1750147200&v=beta&t=bE4wJdvuhdB3S8siWI7aMETLkpq8ZNzE6YI_7qfVmeE)" alt="ZTM Certificate" width="300"/>
+    <img src="https://media.licdn.com/dms/image/v2/D562DAQHvjPBk7YN12w/profile-treasury-image-shrink_1280_1280/B56ZcF327qHUAQ-/0/1748150219463?e=1750147200&v=beta&t=bE4wJdvuhdB3S8siWI7aMETLkpq8ZNzE6YI_7qfVmeE" alt="ZTM Certificate" width="300"/>
   </a>
 </p>
 ### 🎓 JavaScript: The Advanced Concepts
